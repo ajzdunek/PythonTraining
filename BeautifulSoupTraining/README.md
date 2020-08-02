@@ -1,6 +1,6 @@
-## Beautiful Soup Training 
+# Beautiful Soup Training 
 
-# Web Scraping w/BeautifulSoup
+## Web Scraping w/BeautifulSoup
 
 Installing Beautiful Soup - In your terminal type python3 -m pip install bs4
 
