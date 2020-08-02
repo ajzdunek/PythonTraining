@@ -1,4 +1,4 @@
-# PythonTraining folder
+# PythonExercises folder
 
 In the PythonExercises folder you'll find small exrecises I made specifically for Python syntax refreshing. Nothing too exciting unless you're touching the code yourself.
 
