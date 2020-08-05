@@ -8,6 +8,6 @@ Understanding of how to scrape with BeautifulSoup - separate README.md is includ
 
 # BlogScrapingProject folder
 
-Demonstrating the use of Beautiful Soup on the Rithm School website - separate README.md is included in this folder for further details.
+Demonstrating the use of BeautifulSoup on the Rithm School website - separate README.md is included in this folder for further details.
 
 
