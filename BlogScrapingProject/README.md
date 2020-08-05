@@ -1,4 +1,14 @@
-# Blog Scraping Project
+# Before you start scraping please read 👇
+
+Always check a website's terms and conditions before scraping their site.
+
+http:// lorem ipsum website .com/robots.txt 👈 also another way to remember is 👉 🤖 dot text = the good stuff.
+
+Before checking: https://www.airbnb.co.uk/
+
+and after: https://www.airbnb.co.uk/robots.txt 
+
+## Blog Scraping Project
 
 In this project I scraped the Rithm School website (yes it is ok to scrape) https://www.rithmschool.com/blog
 
